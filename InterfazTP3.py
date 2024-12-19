@@ -181,6 +181,6 @@ class FrMain(Frame):
 
 if __name__ == "__main__":
     root = Tk()  #se hace el llamado a la clase tk//para cambiar el icomo: img.ico 
-    root.wm_title("TP 3") #me permite cambiar el titulo de la ventana// root.iconbitmap ("dir directorio")
+    root.wm_title("TP 3 Convolucion") #me permite cambiar el titulo de la ventana// root.iconbitmap ("dir directorio")
     app = FrMain(root)
     app.mainloop() #con este metodo permitimos ver y ejecutar la ventana
